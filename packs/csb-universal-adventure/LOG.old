@@ -1,0 +1,8 @@
+2025/11/05-22:11:39.606 aba4 Recovering log #51
+2025/11/05-22:11:39.612 aba4 Delete type=0 #51
+2025/11/05-22:11:39.613 aba4 Delete type=3 #50
+2025/11/05-22:13:01.145 c9ac Level-0 table #55: started
+2025/11/05-22:13:01.146 c9ac Level-0 table #55: 0 bytes OK
+2025/11/05-22:13:01.148 c9ac Delete type=0 #53
+2025/11/05-22:13:01.156 c9ac Manual compaction at level-0 from '!adventures!gHkS877K3m1c0b5O' @ 72057594037927935 : 1 .. '!adventures!gHkS877K3m1c0b5O' @ 0 : 0; will stop at (end)
+2025/11/05-22:13:01.156 c9ac Manual compaction at level-1 from '!adventures!gHkS877K3m1c0b5O' @ 72057594037927935 : 1 .. '!adventures!gHkS877K3m1c0b5O' @ 0 : 0; will stop at (end)

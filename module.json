@@ -1,0 +1,53 @@
+{
+  "id": "csb-universal-compendium",
+  "title": "CSB汎用ワールド辞典",
+  "description": "",
+  "authors": [
+    {
+      "name": "Jean.N"
+    }
+  ],
+  "url": "https://github.com/jeannjeann/csb-universal-compendium-fvtt",
+  "readme": "README.md",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "13"
+  },
+  "relationships": {
+    "requires": [
+       {
+        "id": "custom-system-builder",
+        "type": "system"
+      }      
+    ]
+  },
+  "packs": [
+    {
+      "name": "csb-universal-adventure",
+      "label": "CSB汎用ワールドセット",
+      "path": "packs/csb-universal-adventure",
+      "type": "Adventure",
+      "system": "custom-system-builder"
+    },
+    {
+      "name": "csb-universal-manual",
+      "label": "CSB汎用ワールド説明書",
+      "path": "packs/csb-universal-manual",
+      "type": "JournalEntry",
+      "system": "custom-system-builder"
+    }
+  ],
+  "packFolders": [
+    {
+      "name": "CSB汎用ワールド",
+      "sorting": "m",
+      "packs": [
+          "csb-universal-adventure",
+          "csb-universal-manual"
+      ]
+    }
+  ],
+  "manifest": "https://github.com/jeannjeann/csb-universal-compendium-fvtt/releases/latest/download/module.json",
+  "download": "https://github.com/jeannjeann/csb-universal-compendium-fvtt/releases/latest/download/module.zip"
+}
