@@ -32,7 +32,7 @@
 
 - Chat Commander：BCDiceコマンドをチャット入力欄から実行する機能を補助します。
 - Inline Webviewer：外部URLからキャラクターシートを開く機能を提供します。
-- Card Hand Mini Toolbar、Card Tokens：カード周りの使い勝手を改善します。
+- Card Hand Mini Toolbar、Card Tokens、Complete Card Management（v13）：カード周りの使い勝手を改善します。
 - Cautious Gamemaster's Pack：チャット周りの使い勝手を改善します。
 - Cut-in Manager：カットイン再生機能を提供します。
 - DFreds Convenient Effects：エフェクトの管理機能を提供します。

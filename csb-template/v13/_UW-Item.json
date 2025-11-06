@@ -1,0 +1,235 @@
+{
+	"isCustomSystemExport": true,
+	"actors": [],
+	"items": [
+		{
+			"id": "wCx2DTF4FPD54uAI",
+			"type": "_equippableItemTemplate",
+			"name": "_UW-Item",
+			"data": {
+				"hidden": [],
+				"header": {
+					"contents": [
+						{
+							"key": "",
+							"cssClass": "",
+							"role": "0",
+							"permission": "0",
+							"tooltip": "",
+							"visibilityFormula": "",
+							"type": "panel",
+							"contents": [
+								{
+									"key": "",
+									"cssClass": "",
+									"role": 0,
+									"permission": 0,
+									"tooltip": "",
+									"visibilityFormula": "",
+									"type": "label",
+									"size": "full-size",
+									"icon": "",
+									"value": "",
+									"prefix": "",
+									"suffix": "",
+									"rollMessage": "",
+									"altRollMessage": "",
+									"rollMessageToChat": true,
+									"altRollMessageToChat": true,
+									"style": "label"
+								},
+								{
+									"key": "",
+									"cssClass": "",
+									"role": "0",
+									"permission": "0",
+									"tooltip": "",
+									"visibilityFormula": "",
+									"type": "panel",
+									"contents": [
+										{
+											"key": "",
+											"cssClass": "",
+											"role": 0,
+											"permission": 0,
+											"tooltip": "",
+											"visibilityFormula": "",
+											"type": "label",
+											"size": "m-small",
+											"icon": "",
+											"value": "数量",
+											"prefix": "",
+											"suffix": "",
+											"rollMessage": "",
+											"altRollMessage": "",
+											"rollMessageToChat": true,
+											"altRollMessageToChat": true,
+											"style": "label"
+										}
+									],
+									"flow": "horizontal",
+									"align": "right",
+									"collapsible": false,
+									"defaultCollapsed": false,
+									"title": "",
+									"titleStyle": "default"
+								},
+								{
+									"key": "item_quantity",
+									"cssClass": "",
+									"role": "0",
+									"permission": "0",
+									"tooltip": "",
+									"visibilityFormula": "",
+									"type": "numberField",
+									"label": "",
+									"defaultValue": "",
+									"size": "full-size",
+									"allowDecimal": false,
+									"minVal": "",
+									"maxVal": "",
+									"allowRelative": false,
+									"showControls": true,
+									"controlsStyle": "hover",
+									"inputStyle": "text"
+								}
+							],
+							"flow": "horizontal",
+							"align": "center",
+							"collapsible": false,
+							"defaultCollapsed": false,
+							"title": "",
+							"titleStyle": "default"
+						}
+					],
+					"key": "custom_header",
+					"type": "panel"
+				},
+				"body": {
+					"contents": [
+						{
+							"key": "",
+							"cssClass": "",
+							"role": 0,
+							"permission": 0,
+							"tooltip": "",
+							"visibilityFormula": "",
+							"type": "panel",
+							"contents": [
+								{
+									"key": "",
+									"cssClass": "",
+									"role": 0,
+									"permission": 0,
+									"tooltip": "",
+									"visibilityFormula": "",
+									"type": "label",
+									"size": "full-size",
+									"icon": "",
+									"value": "説明",
+									"prefix": "",
+									"suffix": "",
+									"rollMessage": "",
+									"altRollMessage": "",
+									"rollMessageToChat": true,
+									"altRollMessageToChat": true,
+									"style": "title"
+								},
+								{
+									"key": "item_description",
+									"cssClass": "",
+									"role": "0",
+									"permission": "0",
+									"tooltip": "",
+									"visibilityFormula": "",
+									"type": "textArea",
+									"label": "",
+									"defaultValue": "",
+									"size": "full-size",
+									"style": "dialog"
+								}
+							],
+							"flow": "vertical",
+							"align": "left",
+							"collapsible": false,
+							"defaultCollapsed": false,
+							"title": "",
+							"titleStyle": "default"
+						},
+						{
+							"key": "item",
+							"cssClass": "",
+							"role": "0",
+							"permission": "0",
+							"tooltip": "",
+							"visibilityFormula": "",
+							"type": "activeEffectContainer",
+							"contents": [],
+							"rowLayout": [],
+							"head": true,
+							"deleteWarning": false,
+							"title": "",
+							"hideEmpty": false,
+							"headDisplay": true,
+							"showDelete": true,
+							"staticRowLayout": {
+								"active": {
+									"enabled": true,
+									"colName": "",
+									"align": "left",
+									"sort": 1
+								},
+								"name": {
+									"enabled": true,
+									"colName": "エフェクト",
+									"align": "left",
+									"sort": 2
+								},
+								"origin": {
+									"enabled": false,
+									"colName": "Origin",
+									"align": "center",
+									"sort": 3
+								},
+								"description": {
+									"enabled": true,
+									"colName": "",
+									"align": "left",
+									"sort": 4,
+									"format": "full"
+								},
+								"count": {
+									"enabled": false,
+									"colName": "Count",
+									"align": "center",
+									"sort": 5
+								}
+							},
+							"showCreateButton": true,
+							"sortOption": "manual",
+							"showOnlyOwnEffects": false,
+							"suggestExistingEffects": false
+						}
+					],
+					"key": "custom_body",
+					"type": "panel"
+				},
+				"modifiers": [],
+				"templateSystemUniqueVersion": 3858251994,
+				"display": {
+					"width": 500,
+					"height": 500,
+					"fix_size": false,
+					"pp_width": 64,
+					"pp_height": 64
+				},
+				"uniqueId": "wCx2DTF4FPD54uAI"
+			},
+			"flags": {
+				"custom-system-builder": {
+					"version": "5.0.1"
+				}
+			}
+		}
+	]
+}
