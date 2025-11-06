@@ -86,3 +86,8 @@
 - Token Action HUD BCDice
 - Token Action HUD Core
 - Tokenizer: The Token Editor
+
+
+## 対応バージョンごとの差異
+- v11ではエフェクト（Active Effect）は機能しません。
+
