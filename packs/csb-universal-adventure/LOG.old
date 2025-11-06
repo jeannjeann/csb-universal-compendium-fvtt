@@ -1,3 +1,8 @@
-2025/11/06-11:28:57.494 bef4 Recovering log #90
-2025/11/06-11:28:57.539 bef4 Delete type=0 #90
-2025/11/06-11:28:57.540 bef4 Delete type=3 #89
+2025/11/06-15:14:34.662 438 Recovering log #111
+2025/11/06-15:14:34.670 438 Delete type=0 #111
+2025/11/06-15:14:34.671 438 Delete type=3 #109
+2025/11/06-15:29:15.524 cd0c Level-0 table #116: started
+2025/11/06-15:29:15.524 cd0c Level-0 table #116: 0 bytes OK
+2025/11/06-15:29:15.526 cd0c Delete type=0 #114
+2025/11/06-15:29:15.535 cd0c Manual compaction at level-0 from '!adventures!3ma5I5ToytEI5RXI' @ 72057594037927935 : 1 .. '!adventures!gHkS877K3m1c0b5O' @ 0 : 0; will stop at (end)
+2025/11/06-15:29:15.535 cd0c Manual compaction at level-1 from '!adventures!3ma5I5ToytEI5RXI' @ 72057594037927935 : 1 .. '!adventures!gHkS877K3m1c0b5O' @ 0 : 0; will stop at (end)
