@@ -1,3 +1,8 @@
-2025/11/06-15:29:52.430 bb58 Recovering log #115
-2025/11/06-15:29:52.437 bb58 Delete type=0 #115
-2025/11/06-15:29:52.438 bb58 Delete type=3 #113
+2025/11/14-08:44:44.445 b118 Recovering log #220
+2025/11/14-08:44:44.491 b118 Delete type=0 #220
+2025/11/14-08:44:44.492 b118 Delete type=3 #218
+2025/11/14-08:45:45.740 b698 Level-0 table #225: started
+2025/11/14-08:45:45.741 b698 Level-0 table #225: 0 bytes OK
+2025/11/14-08:45:45.743 b698 Delete type=0 #223
+2025/11/14-08:45:45.750 b698 Manual compaction at level-0 from '!adventures!3ma5I5ToytEI5RXI' @ 72057594037927935 : 1 .. '!adventures!gHkS877K3m1c0b5O' @ 0 : 0; will stop at (end)
+2025/11/14-08:45:45.750 b698 Manual compaction at level-1 from '!adventures!3ma5I5ToytEI5RXI' @ 72057594037927935 : 1 .. '!adventures!gHkS877K3m1c0b5O' @ 0 : 0; will stop at (end)
